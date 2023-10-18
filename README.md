@@ -3,7 +3,7 @@
 **Location:** Lublin, Poland  
 **Tel:** + (48) 692 815 498  
 **Email:** ayobami.lawani@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/ayobami-lawani-269a986b/
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ayobami-lawani-269a986b/)
 
 ## Summary
 
