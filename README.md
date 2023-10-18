@@ -1,4 +1,3 @@
-#
 
 **Location:** Lublin, Poland  
 **Tel:** + (48) 692 815 498  
