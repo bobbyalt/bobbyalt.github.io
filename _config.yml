@@ -14,10 +14,12 @@ header:
   actions:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/ayobami-lawani-269a986b/"
-      img src: "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      icon: "fab fa-linkedin"
+      img: "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
     - label: "Email"
       url: "mailto:ayobami.lawani@gmail.com"
-      img src: "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      icon: "far fa-envelope"
+      img: "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 
 # Specify plugins if needed
 plugins:
