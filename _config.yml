@@ -1,14 +1,25 @@
 # config.yml
 theme: jekyll-theme-minimal
 title: Ayobami Lawani
+description: "Application Developer | Incident Responder"
 logo: "/Ayo.png"
-description: >
-	<br> 
-Application Developer | Incident Responder
-	<br>
-	<a href= "https://www.linkedin.com/in/ayobami-lawani-269a986b/">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-	<a href="mailto:ayobami.lawani@gmail.com">
-	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
+
+# Use HTML for line breaks in description
+# You can also consider using <br> directly in the description
+# if your Jekyll version supports it.
+description_separator: "<br>"
+
+# Add social badges directly in the header
+header:
+  actions:
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/ayobami-lawani-269a986b/"
+      img src: "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    - label: "Email"
+      url: "mailto:ayobami.lawani@gmail.com"
+      img src: "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+
+# Specify plugins if needed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
